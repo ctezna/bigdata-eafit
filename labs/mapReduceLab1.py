@@ -1,4 +1,5 @@
 ##Salario promedio por sector
+from mrjob.job import MRJob
 class MRWordFrequencyCount(MRJob):
 
     def mapper(self, _, line):
