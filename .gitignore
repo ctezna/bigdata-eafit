@@ -1,0 +1,5 @@
+project/.ipynb_checkpoints
+project/data/
+*.csv
+*.json
+.DS_Store
